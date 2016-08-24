@@ -1,3 +1,5 @@
 __author__="Qurrat Ul Ain"
 __version__= "0.0.2"
+def my_function():
+  pass
 
